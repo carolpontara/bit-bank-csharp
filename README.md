@@ -10,10 +10,6 @@ O projeto BitBank possui as seguintes funcionalidades principais
 
 -Visualização do saldo da carteira
 
--Autenticação de usuário
-
--Visualização do saldo da carteira
-
 # 💻Tecnologias utilizadas
 
 O projeto BitBank utiliza as seguintes tecnologias:
