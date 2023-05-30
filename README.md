@@ -1,4 +1,4 @@
-# 🏦BitBank
+# 🏦ByteBank
 
 O BitBank é um projeto desenvolvido em C# que simula um banco digital.
 
